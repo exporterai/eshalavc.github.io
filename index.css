@@ -1,0 +1,12 @@
+.nav-link img {
+    border-radius: 10px;
+    margin-bottom: 10px;
+    height: 170px;
+}
+
+@media (max-width: 600px) {
+    .nav-link img {
+        height: 150px;
+        width: 250px !important;
+    }
+}
