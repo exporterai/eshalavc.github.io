@@ -137,4 +137,14 @@
     }
 }
 
-/* <----------- Hero video -------------------> */
+/* <----------- about video -------------------> */
+.about-video video{
+    border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+    .about-video video {
+        width: 100%;
+    }
+}
+
