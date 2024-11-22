@@ -86,6 +86,19 @@
     }
 }
 
+/* <------------- hero text ----------------> */
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    margin-top: 20px;
+}
+
+
+
 
 /* <--------------- Video section ------------------> */
 
